@@ -2,15 +2,15 @@
 Welcome to the Currency Converter App! This application allows you to convert prices between different currencies, view exchange rate charts, and save your favorite currencies to a watchlist.
 
 # Features
-Convert prices between different currencies: Enter the amount and select the source and target currencies to get the converted value.\n
-View exchange rate charts: Visualize the historical exchange rates for different currency pairs to track their trends over time.
-Save favorite currencies: Add your frequently used currencies to the watchlist for quick access and reference.
+1. Convert prices between different currencies: Enter the amount and select the source and target currencies to get the converted value.
+2. View exchange rate charts: Visualize the historical exchange rates for different currency pairs to track their trends over time.
+3. Save favorite currencies: Add your frequently used currencies to the watchlist for quick access and reference.
 
 
 # Technologies Used
-React Native: A JavaScript framework for building mobile applications.
-Expo: An open-source platform for developing React Native applications.
-Exchange Rate API: Utilize a reliable API to fetch real-time exchange rates.
+1. React Native: A JavaScript framework for building mobile applications.
+2. Expo: An open-source platform for developing React Native applications.
+3. Exchange Rate API: Utilize a reliable API to fetch real-time exchange rates.
 
 # Getting Started
 To get started with the Currency Converter app, follow these steps:
