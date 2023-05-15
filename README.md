@@ -2,7 +2,7 @@
 Welcome to the Currency Converter App! This application allows you to convert prices between different currencies, view exchange rate charts, and save your favorite currencies to a watchlist.
 
 # Features
-Convert prices between different currencies: Enter the amount and select the source and target currencies to get the converted value.
+Convert prices between different currencies: Enter the amount and select the source and target currencies to get the converted value.\n
 View exchange rate charts: Visualize the historical exchange rates for different currency pairs to track their trends over time.
 Save favorite currencies: Add your frequently used currencies to the watchlist for quick access and reference.
 
